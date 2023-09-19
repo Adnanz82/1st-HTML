@@ -1,0 +1,6 @@
+body {
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    border: 5px solid #06185c; /* Add a 5px solid border with color #333 */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}

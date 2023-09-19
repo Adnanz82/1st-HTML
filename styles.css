@@ -1,0 +1,7 @@
+body {
+    width: 210mm; /* A4 width */
+    height: 297mm; /* A4 height */
+    margin: 0 auto; /* Center content horizontally */
+    padding: 0; /* Remove padding */
+    box-sizing: border-box; /* Include padding in the element's total width and height */
+}
